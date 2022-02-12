@@ -1,4 +1,4 @@
-# Asket-App
+# Askey-App
 
 ## Description
 
